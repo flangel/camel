@@ -96,6 +96,9 @@ public enum OperationName {
     COMPOSITE_TREE("composite-tree"),
     COMPOSITE_BATCH("composite-batch"),
     COMPOSITE("composite");
+	
+	// Composite Graph
+	COMPOSITE_GRAPH("composite-graph"),
 
     private final String value;
 
